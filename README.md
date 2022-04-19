@@ -15,4 +15,4 @@ Adversarial input attacks can be broadly classified into two types, one is non-t
 - Non-targeted Attack: Aiming to fool the neural network and output a label different than the original one.
 - Targeted Attack: Intentionally misleading the network to output a specific label designed by the attacker.
 
-To fool the neural network, we need a special kind of input data called adversarial examples. The process of adding these perturbations is fast gradient sign method (FGSM). It works by using the gradients of the neural network to create an adversarial example.
+To fool the neural network, we need a special kind of input data called adversarial examples. The process of adding these perturbations is fast gradient sign method (FGSM). It works by using the gradients of the neural network to create an adversarial example."# Adversarial-Search-DNN" 
